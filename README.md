@@ -1,6 +1,3 @@
-# DataEngineering-Python
-Data Engineering - Python
-
 # Data Engineering Toolkit - Plug and Play
 
 Welcome to the Data Engineering Toolkit!  
