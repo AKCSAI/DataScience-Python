@@ -1,13 +1,13 @@
-# Data Engineering Toolkit - Plug and Play
+# Data Science Toolkit - Plug and Play
 
-Welcome to the Data Engineering Toolkit!  
+Welcome to the Data Science Toolkit!  
 This repository contains various scripts and files designed to be "plug and play" for data engineering roles. All files are ready to use, provided the path to the files is set correctly.
 
 ## How to Use
 
 Clone this repository to your local machine.
 
-Copy code (bash) git clone https://github.com/AKCSAI/DataEngineering-Python.git
+Copy code (bash) git clone https://github.com/AKCSAI/DataScience-Python.git
 
 Ensure the paths to the files are correctly set in your environment or script.
 Run the scripts according to the provided documentation or comments within the files.
