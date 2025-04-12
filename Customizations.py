@@ -75,3 +75,4 @@ plt.xticks([1000,10000,100000], ['1k','10k','100k'])
 
 # Show the plot
 plt.show()
+
