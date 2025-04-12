@@ -1,7 +1,7 @@
 # Data Science Toolkit - Plug and Play
 
 Welcome to the Data Science Toolkit!  
-This repository contains various scripts and files designed to be "plug and play" for data engineering roles. All files are ready to use, provided the path to the files is set correctly.
+This repository contains various scripts and files designed to be "plug and play" for data science roles. All files are ready to use, provided the path to the files is set correctly.
 
 ## How to Use
 
